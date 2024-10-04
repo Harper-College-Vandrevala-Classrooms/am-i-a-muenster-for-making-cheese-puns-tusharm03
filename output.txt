@@ -1,0 +1,4 @@
+Number of cheeses using pasteurized milk: 430
+Number of cheeses using raw milk: 0
+Number of organic cheeses with moisture > 41.0%: 26
+Most common type of animal milk: Cow
